@@ -48,6 +48,7 @@ ollama pull nomic-embed-text
 ├── populate_database.py       # Script to populate ChromaDB with embedded data
 ├── query_rag.py                # Script to query the RAG system
 ├── requirements.txt           # Project dependencies
+├── test_rag.py                # Script to test the RAG output
 └── README.md                   # Project documentation (this file)
 ```
 
